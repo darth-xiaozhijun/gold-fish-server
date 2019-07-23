@@ -1,0 +1,7 @@
+{
+  "name": "gold-fish-server",
+  "description": "gold-fish-server",
+  "addons": [
+    "cleardb:ignite"
+  ]
+}

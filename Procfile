@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=production target/gold-fish-server-1.0.0.jar
