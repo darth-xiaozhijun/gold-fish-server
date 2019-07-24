@@ -6,7 +6,7 @@ public class Result<T> {
 	
 	private T body;
 	
-	private String code;
+	private String status;
 	
 	private String msg;
 
@@ -26,12 +26,12 @@ public class Result<T> {
 		this.body = body;
 	}
 
-	public String getCode() {
-		return code;
+	public String getStatus() {
+		return status;
 	}
 
-	public void setCode(String code) {
-		this.code = code;
+	public void setStatus(String status) {
+		this.status = status;
 	}
 
 	public String getMsg() {

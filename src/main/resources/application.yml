@@ -7,4 +7,8 @@ logging:
       springframework: error
 server:
   port: ${port:8888}
+  
+wechat:
+  appid: wx7452e6a1d639a29b
+  secret: 7a4036e4f683e91c4bdb9310571b99a0
 
